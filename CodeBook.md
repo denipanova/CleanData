@@ -52,7 +52,7 @@ tBodyGyroMean
 tBodyGyroJerkMean  
 
 
-This code book is created is an abstract from the features_info.txt file which is available for the UCI NAR dataset.
+This code book is created as an abstract from the features_info.txt file which is available for the UCI NAR dataset.
 Additional variables which this analysis adds are:
 * subject, which refers to the subject who performed the activity (it is coded from 1 to 30)
 * activity_label identifies which activity the particular row represents
